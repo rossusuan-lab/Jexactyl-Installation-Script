@@ -1,3 +1,5 @@
+
+
 # Jexactyl-Installation-Script
 Install the [Jexactyl](https://jexactyl.com/) Panel in minutes!
 
@@ -8,8 +10,8 @@ This is a modified version of [Pterodactyl Installer](https://github.com/tommytr
 ## How to use this?
 Run this commands in a terminal:
 ```bash
-wget https://raw.githubusercontent.com/rossusuan-lab/Jexactyl-Installation-Script/refs/heads/main/install.sh && bash install.sh```
-
+wget https://raw.githubusercontent.com/rossusuan-lab/Jexactyl-Installation-Script/refs/heads/main/install.sh && bash install.sh
+```
 That's It! Now just answer questions as asked and your panel should be installed!
 
 _Star this repository if you like the script! ;)_
